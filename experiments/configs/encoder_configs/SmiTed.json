@@ -1,0 +1,6 @@
+{
+  "encoder_type": "SmiTedEncoder",
+  "encoder_kwargs": {
+    "batch_size": 128
+  }
+}

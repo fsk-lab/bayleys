@@ -1,0 +1,9 @@
+{
+  "model_type": "GaussianProcessModel",
+  "model_architecture": {
+    "kernel": "Matern",
+    "kernel_lengthscale": true
+  },
+  "static_embeddings": true,
+  "inference_batch_size": 1024
+}

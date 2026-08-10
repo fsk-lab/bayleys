@@ -1,0 +1,26 @@
+[project]
+name = "bayleys"
+version = "0.3.0"
+description = "Bayleys: Bayesian Library Exploration and Virtual Screening"
+requires-python = ">3.9"
+
+dependencies = [
+    "numpy>=1.26.4",
+    "pandas>=2.3.3",
+    "torch>=2.13.0",
+    "rdkit>=2026.3.1",
+    "mordred>=1.2.0",
+    "gauche>=0.1.6",
+    "scikit-learn>=1.7.2",
+    "gpytorch>=1.14.2",
+    "botorch>=0.17.2",
+    "datasets>=4.8.4",
+    "transformers>=5.13.0",
+    "sentencepiece>=0.2.1",
+    "peft>=0.19.1",
+    "laplace-torch>=0.2.2",
+    "smi-ted>=1.0.0",
+    "deepchem>=2.8.0",
+    "umap-learn>=0.5.12",
+    "opentsne>=1.0.4"
+]

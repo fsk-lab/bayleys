@@ -1,0 +1,6 @@
+{
+  "encoder_type": "T5ChemEncoder",
+  "encoder_kwargs": {
+    "pooling": "mean"
+  }
+}

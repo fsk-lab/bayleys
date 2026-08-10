@@ -1,0 +1,8 @@
+{
+  "model_type": "RandomForestModel",
+  "model_architecture": {
+    "n_estimators": 200
+  },
+  "static_embeddings": true,
+  "inference_batch_size": 1024
+}

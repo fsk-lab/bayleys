@@ -1,0 +1,6 @@
+{
+  "encoder_type": "MolFormerXLEncoder",
+  "encoder_kwargs": {
+    "pooling": "mean"
+  }
+}

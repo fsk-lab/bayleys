@@ -1,0 +1,9 @@
+{
+  "encoder_type": "MorganFingerprintEncoder",
+  "encoder_kwargs": {
+    "radius": 2,
+    "n_bits": 2048,
+    "n_jobs": -2,
+    "batch_size": 1024
+  }
+}

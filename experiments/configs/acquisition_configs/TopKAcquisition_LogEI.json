@@ -1,0 +1,8 @@
+{
+  "type": "TopKAcquisition",
+  "acquisition_function": "logEI",
+  "acquisition_function_kwargs": {
+    "exploration": 0.1
+  },
+  "batch_size": 1000
+}

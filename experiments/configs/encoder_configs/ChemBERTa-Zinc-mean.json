@@ -1,0 +1,6 @@
+{
+  "encoder_type": "ChemBERTaZincEncoder",
+  "encoder_kwargs": {
+    "pooling": "mean"
+  }
+}

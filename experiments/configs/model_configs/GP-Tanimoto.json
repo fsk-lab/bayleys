@@ -1,0 +1,9 @@
+{
+  "model_type": "GaussianProcessModel",
+  "model_architecture": {
+    "kernel": "Tanimoto",
+    "frozen_outputscale": false
+  },
+  "static_embeddings": true,
+  "inference_batch_size": 1024
+}

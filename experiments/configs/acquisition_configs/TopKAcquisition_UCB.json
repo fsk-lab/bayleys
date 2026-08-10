@@ -1,0 +1,8 @@
+{
+  "type": "TopKAcquisition",
+  "acquisition_function": "ucb",
+  "acquisition_function_kwargs": {
+    "exploration": 0.5
+  },
+  "batch_size": 1000
+}

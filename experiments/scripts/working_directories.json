@@ -1,0 +1,9 @@
+{
+  "data": "data/",
+  "encoder_configs": "configs/encoder_configs/",
+  "training_configs": "configs/training_configs/",
+  "model_configs": "configs/model_configs/",
+  "acquisition_configs": "configs/acquisition_configs/",
+  "results": "results/",
+  "tmp": "/tmp/"
+}
