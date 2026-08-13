@@ -31,4 +31,4 @@ The `experiments` folder contains scripts, configurations and utility functions 
 
 All configurations and results are provided on Zenodo at the following link:
 
---- TODO ---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21907928.svg)](https://doi.org/10.5281/zenodo.21907928)
