@@ -11,7 +11,7 @@ For installing BAYLEYS, use the following steps:
 2. `cd bayleys`
 3. Install *via* pip: `pip install .` (or editable: `pip install -e .`).
 
-> :grey_exclamation: **Note**: In some environments, installation with the `--no-build-isolation` flag may be necessary due to possible incompatibilities with `pytorch-fast-transformers`.
+> :grey_exclamation: **Note**: In certain scenarios, `pip` is unable to resolve the dependencies of `smi-ted`, especially `pytorch-fast-transformers`. In this case, first install torch manually via `pip install "torch>=2.13.0,<2.14`; then install the package as described above.
 
 
 ## Structure of the Repository
